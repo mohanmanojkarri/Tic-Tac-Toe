@@ -1,2 +1,21 @@
-# Tic-Tac-Toe
-A fun game.
+# 🎮 Tic Tac Toe
+
+A simple **Tic Tac Toe game** built with **HTML, CSS, and JavaScript**.  
+Play against a friend in the same browser with a clean and responsive interface.
+
+
+## 📌 Features
+- Two-player mode (X vs O).  
+- Winning detection with all possible win patterns.  
+- Draw detection when the board is full.  
+- **Reset** and **New Game** buttons.  
+- Simple and responsive design.  
+
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the game board.  
+- **CSS3** – Styling and responsive design.  
+- **JavaScript (ES6)** – Game logic (turns, win/draw detection, reset).  
+
+
+## 📸 Preview
