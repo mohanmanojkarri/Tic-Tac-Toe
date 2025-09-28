@@ -19,6 +19,11 @@ Play against a friend in the same browser with a clean and responsive interface.
 
 
 ## 📸 Preview
+- Image of base game.
 <img width="1388" height="911" alt="image" src="https://github.com/user-attachments/assets/f295bfb0-92b5-4a34-9717-1ce826385dac" />
+
+- Image of game while playing.
 <img width="1388" height="911" alt="image" src="https://github.com/user-attachments/assets/69305904-3fd7-4b63-b12e-1d3500e66b3e" />
-<img width="1388" height="911" alt="image" src="https://github.com/user-attachments/assets/b2dc4718-008e-4203-b5bc-82fffb522362" />
+
+- Player **X** wins.
+<img width="1369" height="1683" alt="image" src="https://github.com/user-attachments/assets/53343ccd-b5d8-423f-80c9-6e90b9dd1bc0" />
