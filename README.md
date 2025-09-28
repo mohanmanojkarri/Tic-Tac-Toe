@@ -19,3 +19,4 @@ Play against a friend in the same browser with a clean and responsive interface.
 
 
 ## 📸 Preview
+<img width="1388" height="911" alt="image" src="https://github.com/user-attachments/assets/f295bfb0-92b5-4a34-9717-1ce826385dac" />
